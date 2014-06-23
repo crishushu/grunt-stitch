@@ -41,6 +41,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "stitch": "~0.3.3"
+    "stitch": "git://github.com/jbeard4/stitch.git"
   }
 }
